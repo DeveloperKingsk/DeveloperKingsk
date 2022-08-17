@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumawat</h1>
 <h3 align="center">A passionate Angular,Ionic and Nodejs Developer from India  🇮🇳</h3>
 
-<p align="left"> <a href="https://twitter.com/developerkingsk" target="blank"><img src="https://img.shields.io/twitter/follow/alexnarvaezt1?logo=twitter&style=for-the-badge" alt="developerkingsk" /></a><a href="https://twitter.com/developerkingsk" target="blank"><img src="https://img.shields.io/twitter/follow/alexnarvaezt1?logo=twitter&style=for-the-badge" alt="developerkingsk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/developerkingsk" target="blank"><img src="https://img.shields.io/twitter/follow/alexnarvaezt1?logo=twitter&style=for-the-badge" alt="developerkingsk" /> </a><a href="https://twitter.com/developerkingsk" target="blank"><img src="https://img.shields.io/twitter/follow/alexnarvaezt1?logo=twitter&style=for-the-badge" alt="developerkingsk" /></a> </p>
 
 
 - 🔭 I’m currently working on **TCS**
