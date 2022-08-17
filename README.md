@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **shubhamkumawat92@gmail.com**
 
+- 👨‍💻 All of my projects are available at [DeveloperKingsk](https://developerkingsk.github.io)
+
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
