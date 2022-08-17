@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/alexnarvaezt1" target="blank"><img src="https://img.shields.io/twitter/follow/alexnarvaezt1?logo=twitter&style=for-the-badge" alt="alexnarvaezt1" /></a> </p>
 
-- 🔭 I’m currently working on **Umvel**
+- 🔭 I’m currently working on **TCS**
 
-- 💬 Ask me about **angular, cypress, postman, javascript**
+- 💬 Ask me about **Angular, Ionic, Nodejs, Javascript, Scss**
 
-- 📫 How to reach me **alexiszed19@gmail.com**
+- 📫 How to reach me **shubhamkumawat92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
